@@ -4,4 +4,5 @@
 
 <p><b>python qucs2gerber.py -s demo.sch -o output.grb</b></p>
 
+<p>Here is an</p>
 <img src="https://www.carrelec.com/images/made_in_usa.png" alt="Made in the USA" />
