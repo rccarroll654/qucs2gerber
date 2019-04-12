@@ -5,4 +5,4 @@ Qucs to Gerber Converter
 
 Usage:
 
-<p>python qucs2gerber.py -s demo.sch -o output.grb</p>
+<p><bf>python qucs2gerber.py -s demo.sch -o output.grb</bf></p>
