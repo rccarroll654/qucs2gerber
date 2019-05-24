@@ -9,7 +9,7 @@ Installation:
 
 Usage:
 
-**python3 -m qucs2gerber**
+**python3 -m qucs2gerber -s qucs_schematic.sch -o gerber_file.grb**
 
 Project Website:
 

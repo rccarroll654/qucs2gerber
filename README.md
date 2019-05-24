@@ -6,7 +6,8 @@ Example Qucs schematic:
 ![Qucs Example](/images/qucs_example.png)
 
 Example qucs2gerber usage:
-**python -m qucs2gerber -s demo.sch -o output.grb**
+
+**python3 -m qucs2gerber -s demo.sch -o output.grb**
 
 Gerber file generated:
 ![Gerber Example](/images/gerber_example.png)
