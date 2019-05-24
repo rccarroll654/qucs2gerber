@@ -18,7 +18,7 @@ Project Website:
 
 setuptools.setup(
     name="qucs2gerber",
-    version="0.0.3",
+    version="0.0.4",
     author="Russell Carroll",
     author_email="russell_carroll@carrelec.com",
     description="A Qucs to Gerber generation tool.",

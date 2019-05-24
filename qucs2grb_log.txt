@@ -1,2 +1,0 @@
--- QUCS to Gerber File Conversion Log --
-
